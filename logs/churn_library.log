@@ -1,0 +1,8 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS -                     train and test dataframes are not empty
+root - INFO - Testing perform_feature_engineering: SUCCESS - x and y have the same length
+root - INFO - Testing train_models: SUCCESS - dir with model results exists
+root - INFO - Testing train_models: SUCCESS - dir with saved model exists
+root - INFO - All tests successufully passed.
